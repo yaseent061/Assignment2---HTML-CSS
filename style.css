@@ -90,7 +90,7 @@ header {
 }
 
 #img div p {
-  background-color: orange;
+  background-color: rgba(227, 145, 45, 0.5);
   text-align: center;
 }
 #img img {
