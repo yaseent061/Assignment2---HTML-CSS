@@ -65,7 +65,7 @@ header {
 }
 
 #img {
-  background: url(./imgs/taco.png);
+  background: url(../imgs/taco.png);
   background-size: cover;
   display: flex;
   flex-basis: 70%;
